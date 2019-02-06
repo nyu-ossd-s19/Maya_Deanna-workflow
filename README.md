@@ -25,3 +25,13 @@ I learned that GitHub has a variety of different preset licenses and standard gi
 I created an issue in GitHub for the first time. I learned that GitHub has a featured for recognizing possible related issues while creating new issues, as it suggested that the issues I was creating were related to each other.
 
 
+## Fixing Merge Conflicts, Pull Requests, and New Issues
+
+Completing the Pull request instructions, Maya and I encountered a merge conflict.
+
+We learned that in order to merge to the master branch, you must be on master. You can not merge to master from the other branch.
+
+We also learned that there should be more than one remote url, especially if you have forked the repo. Your remote forked repo is origin, and
+the original remote repo is upstream.
+
+ 
